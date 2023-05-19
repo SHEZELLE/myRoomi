@@ -1,0 +1,21 @@
+#div1{
+    width: 1000px;
+    height: 1500px;
+    margin-left: 18.3%; margin-right: 33.3%;
+    background-color: rgb(114, 110, 130);
+    color: rgb(32, 12, 33) ;
+}
+
+#div2{
+    margin-left: 4.3%; margin-right: 33.3%; margin-top: 5%;
+}
+
+img{
+    width: 900px;
+    height: 600px;
+    margin-left: 4.3%; margin-right: 33.3%; margin-top: 5%;
+}
+
+body{
+    background-color: rgb(169, 163, 170);
+}
